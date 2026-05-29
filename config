@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/B-bash00/Doctor-Strange-CV.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	email = bibas@example.com
+	name = bibas
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
